@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /design-system/
+Disallow: /api/
+
+Sitemap: https://edulearn.edu.sg/sitemap.xml
+Host: https://edulearn.edu.sg

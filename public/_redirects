@@ -1,0 +1,58 @@
+# ==============================================================================
+# Edulearn International College - Cloudflare Pages / Netlify 301 Redirect Rules
+# Phase 21: Legacy URL Migration to Modern Multilingual Architecture
+# ==============================================================================
+
+# Core Root & Utility Direct Links
+/                                       /en/                                                                                        301!
+/applynow                               /en/apply/                                                                                  301
+/contact                                /en/contact/                                                                                301
+/forms                                  /en/forms/                                                                                  301
+/verification                           /en/verification/                                                                           301
+/gallery                                /en/gallery/                                                                                301
+/about                                  /en/about/                                                                                  301
+/courses                                /en/courses/                                                                                301
+/news                                   /en/news/                                                                                   301
+
+# Legacy Institutional Compliance Subpages (/page/*)
+/page/facilites                         /en/about/facilities/                                                                       301
+/page/facilities                        /en/about/facilities/                                                                       301
+/page/our-managers                      /en/governance/                                                                             301
+/page/our-academic-and-examination-board /en/governance/                                                                            301
+/page/our-teachers-deployment           /en/governance/                                                                             301
+/page/our-registration-certificates     /en/verification/                                                                           301
+/page/our-organisation-structure        /en/governance/                                                                             301
+/page/useful-links                      /en/useful-links/                                                                           301
+/page/news-and-events                   /en/news/                                                                                   301
+
+# Legacy Course Taxonomy Categories
+/course/diploma-courses                 /en/courses/diploma/                                                                        301
+/course/advanced-diploma-courses        /en/courses/advanced-diploma/                                                               301
+/course/short-term-courses              /en/courses/short-term/                                                                     301
+/course/postgraduate-diploma-courses    /en/courses/postgraduate-diploma/                                                           301
+
+# Legacy Course Detail Pages (/course/details/*)
+/course/details/26                      /en/courses/diploma-mechanical-and-electrical-engineering/                                  301
+/course/details/27                      /en/courses/diploma-information-technology/                                                 301
+/course/details/28                      /en/courses/diploma-facilities-management/                                                  301
+/course/details/29                      /en/courses/diploma-chemical-and-process-engineering/                                       301
+/course/details/30                      /en/courses/diploma-quantity-surveying-and-construction-management/                         301
+/course/details/31                      /en/courses/diploma-civil-engineering/                                                      301
+/course/details/32                      /en/courses/diploma-mechanical-engineering/                                                 301
+/course/details/33                      /en/courses/diploma-electrical-and-electronics-engineering/                                 301
+/course/details/34                      /en/courses/diploma-hospitality-management/                                                 301
+/course/details/78                      /en/courses/diploma-caregiving-and-healthcare-assistant/                                    301
+/course/details/80                      /en/courses/diploma-logistics-and-supply-chain-management-elearning/                        301
+/course/details/81                      /en/courses/diploma-business-management-elearning/                                          301
+/course/details/82                      /en/courses/diploma-human-resource-management-elearning/                                    301
+
+/course/details/35                      /en/courses/advanced-diploma-civil-engineering/                                             301
+/course/details/36                      /en/courses/advanced-diploma-electrical-and-electronics-engineering/                         301
+/course/details/37                      /en/courses/advanced-diploma-mechanical-engineering/                                        301
+/course/details/70                      /en/courses/advanced-diploma-mechanical-and-electrical-engineering/                         301
+/course/details/79                      /en/courses/advanced-diploma-construction-management/                                       301
+
+/course/details/38                      /en/courses/short-term/                                                                     301
+
+/course/details/71                      /en/courses/postgraduate-diploma-mechanical-and-electrical-instrumentation-control-engineering/ 301
+/course/details/72                      /en/courses/postgraduate-diploma-business-management/                                       301

@@ -1,0 +1,55 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": false,
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/applynow", "destination": "/en/apply/", "permanent": true },
+    { "source": "/contact", "destination": "/en/contact/", "permanent": true },
+    { "source": "/forms", "destination": "/en/forms/", "permanent": true },
+    { "source": "/verification", "destination": "/en/verification/", "permanent": true },
+    { "source": "/gallery", "destination": "/en/gallery/", "permanent": true },
+    { "source": "/about", "destination": "/en/about/", "permanent": true },
+    { "source": "/courses", "destination": "/en/courses/", "permanent": true },
+    { "source": "/news", "destination": "/en/news/", "permanent": true },
+
+    { "source": "/page/facilites", "destination": "/en/about/facilities/", "permanent": true },
+    { "source": "/page/facilities", "destination": "/en/about/facilities/", "permanent": true },
+    { "source": "/page/our-managers", "destination": "/en/governance/", "permanent": true },
+    { "source": "/page/our-academic-and-examination-board", "destination": "/en/governance/", "permanent": true },
+    { "source": "/page/our-teachers-deployment", "destination": "/en/governance/", "permanent": true },
+    { "source": "/page/our-registration-certificates", "destination": "/en/verification/", "permanent": true },
+    { "source": "/page/our-organisation-structure", "destination": "/en/governance/", "permanent": true },
+    { "source": "/page/useful-links", "destination": "/en/useful-links/", "permanent": true },
+    { "source": "/page/news-and-events", "destination": "/en/news/", "permanent": true },
+
+    { "source": "/course/diploma-courses", "destination": "/en/courses/diploma/", "permanent": true },
+    { "source": "/course/advanced-diploma-courses", "destination": "/en/courses/advanced-diploma/", "permanent": true },
+    { "source": "/course/short-term-courses", "destination": "/en/courses/short-term/", "permanent": true },
+    { "source": "/course/postgraduate-diploma-courses", "destination": "/en/courses/postgraduate-diploma/", "permanent": true },
+
+    { "source": "/course/details/26", "destination": "/en/courses/diploma-mechanical-and-electrical-engineering/", "permanent": true },
+    { "source": "/course/details/27", "destination": "/en/courses/diploma-information-technology/", "permanent": true },
+    { "source": "/course/details/28", "destination": "/en/courses/diploma-facilities-management/", "permanent": true },
+    { "source": "/course/details/29", "destination": "/en/courses/diploma-chemical-and-process-engineering/", "permanent": true },
+    { "source": "/course/details/30", "destination": "/en/courses/diploma-quantity-surveying-and-construction-management/", "permanent": true },
+    { "source": "/course/details/31", "destination": "/en/courses/diploma-civil-engineering/", "permanent": true },
+    { "source": "/course/details/32", "destination": "/en/courses/diploma-mechanical-engineering/", "permanent": true },
+    { "source": "/course/details/33", "destination": "/en/courses/diploma-electrical-and-electronics-engineering/", "permanent": true },
+    { "source": "/course/details/34", "destination": "/en/courses/diploma-hospitality-management/", "permanent": true },
+    { "source": "/course/details/78", "destination": "/en/courses/diploma-caregiving-and-healthcare-assistant/", "permanent": true },
+    { "source": "/course/details/80", "destination": "/en/courses/diploma-logistics-and-supply-chain-management-elearning/", "permanent": true },
+    { "source": "/course/details/81", "destination": "/en/courses/diploma-business-management-elearning/", "permanent": true },
+    { "source": "/course/details/82", "destination": "/en/courses/diploma-human-resource-management-elearning/", "permanent": true },
+
+    { "source": "/course/details/35", "destination": "/en/courses/advanced-diploma-civil-engineering/", "permanent": true },
+    { "source": "/course/details/36", "destination": "/en/courses/advanced-diploma-electrical-and-electronics-engineering/", "permanent": true },
+    { "source": "/course/details/37", "destination": "/en/courses/advanced-diploma-mechanical-engineering/", "permanent": true },
+    { "source": "/course/details/70", "destination": "/en/courses/advanced-diploma-mechanical-and-electrical-engineering/", "permanent": true },
+    { "source": "/course/details/79", "destination": "/en/courses/advanced-diploma-construction-management/", "permanent": true },
+
+    { "source": "/course/details/38", "destination": "/en/courses/short-term/", "permanent": true },
+
+    { "source": "/course/details/71", "destination": "/en/courses/postgraduate-diploma-mechanical-and-electrical-instrumentation-control-engineering/", "permanent": true },
+    { "source": "/course/details/72", "destination": "/en/courses/postgraduate-diploma-business-management/", "permanent": true }
+  ]
+}

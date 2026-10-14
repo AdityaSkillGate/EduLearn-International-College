@@ -1,0 +1,50 @@
+[
+  { "legacyUrl": "/applynow", "canonicalDestination": "/en/apply/", "status": 301, "notes": "Primary CTA button handoff" },
+  { "legacyUrl": "/contact", "canonicalDestination": "/en/contact/", "status": 301, "notes": "Campus address and admissions inquiries" },
+  { "legacyUrl": "/forms", "canonicalDestination": "/en/forms/", "status": 301, "notes": "CPE Student Contract, Advisory Note & Refund forms" },
+  { "legacyUrl": "/verification", "canonicalDestination": "/en/verification/", "status": 301, "notes": "Official certificate & credential verification guidance" },
+  { "legacyUrl": "/gallery", "canonicalDestination": "/en/gallery/", "status": 301, "notes": "Little India campus photo gallery" },
+  { "legacyUrl": "/about", "canonicalDestination": "/en/about/", "status": 301, "notes": "Root institutional profile" },
+  { "legacyUrl": "/courses", "canonicalDestination": "/en/courses/", "status": 301, "notes": "Root course directory" },
+  { "legacyUrl": "/news", "canonicalDestination": "/en/news/", "status": 301, "notes": "Root announcements directory" },
+
+  { "legacyUrl": "/page/facilites", "canonicalDestination": "/en/about/facilities/", "status": 301, "notes": "Legacy typo slug corrected to modern facilities route" },
+  { "legacyUrl": "/page/facilities", "canonicalDestination": "/en/about/facilities/", "status": 301, "notes": "Campus facilities & classroom specifications" },
+  { "legacyUrl": "/page/our-managers", "canonicalDestination": "/en/governance/", "status": 301, "notes": "Management profiles & executive leadership" },
+  { "legacyUrl": "/page/our-academic-and-examination-board", "canonicalDestination": "/en/governance/", "status": 301, "notes": "Academic and Examination Board responsibilities" },
+  { "legacyUrl": "/page/our-teachers-deployment", "canonicalDestination": "/en/governance/", "status": 301, "notes": "CPE registered faculty deployment roster" },
+  { "legacyUrl": "/page/our-registration-certificates", "canonicalDestination": "/en/verification/", "status": 301, "notes": "PEI registration & bizSAFE Level 3 certifications" },
+  { "legacyUrl": "/page/our-organisation-structure", "canonicalDestination": "/en/governance/", "status": 301, "notes": "Institutional governance organization chart" },
+  { "legacyUrl": "/page/useful-links", "canonicalDestination": "/en/useful-links/", "status": 301, "notes": "Statutory links (SSG, TP Gateway, MOE, ICA)" },
+  { "legacyUrl": "/page/news-and-events", "canonicalDestination": "/en/news/", "status": 301, "notes": "Official announcements & calendar" },
+
+  { "legacyUrl": "/course/diploma-courses", "canonicalDestination": "/en/courses/diploma/", "status": 301, "notes": "6-Month Diploma category index" },
+  { "legacyUrl": "/course/advanced-diploma-courses", "canonicalDestination": "/en/courses/advanced-diploma/", "status": 301, "notes": "Advanced Diploma category index" },
+  { "legacyUrl": "/course/short-term-courses", "canonicalDestination": "/en/courses/short-term/", "status": 301, "notes": "Short-Term Modular Certifications index" },
+  { "legacyUrl": "/course/postgraduate-diploma-courses", "canonicalDestination": "/en/courses/postgraduate-diploma/", "status": 301, "notes": "Postgraduate Diploma category index" },
+
+  { "legacyUrl": "/course/details/26", "canonicalDestination": "/en/courses/diploma-mechanical-and-electrical-engineering/", "status": 301, "notes": "Diploma in Mechanical & Electrical Engineering" },
+  { "legacyUrl": "/course/details/27", "canonicalDestination": "/en/courses/diploma-information-technology/", "status": 301, "notes": "Diploma in Information Technology" },
+  { "legacyUrl": "/course/details/28", "canonicalDestination": "/en/courses/diploma-facilities-management/", "status": 301, "notes": "Diploma in Facilities Management" },
+  { "legacyUrl": "/course/details/29", "canonicalDestination": "/en/courses/diploma-chemical-and-process-engineering/", "status": 301, "notes": "Diploma in Chemical and Process Engineering" },
+  { "legacyUrl": "/course/details/30", "canonicalDestination": "/en/courses/diploma-quantity-surveying-and-construction-management/", "status": 301, "notes": "Diploma in QS & Construction Management" },
+  { "legacyUrl": "/course/details/31", "canonicalDestination": "/en/courses/diploma-civil-engineering/", "status": 301, "notes": "Diploma in Civil Engineering" },
+  { "legacyUrl": "/course/details/32", "canonicalDestination": "/en/courses/diploma-mechanical-engineering/", "status": 301, "notes": "Diploma in Mechanical Engineering" },
+  { "legacyUrl": "/course/details/33", "canonicalDestination": "/en/courses/diploma-electrical-and-electronics-engineering/", "status": 301, "notes": "Diploma in Electrical & Electronics Engineering" },
+  { "legacyUrl": "/course/details/34", "canonicalDestination": "/en/courses/diploma-hospitality-management/", "status": 301, "notes": "Diploma in Hospitality Management" },
+  { "legacyUrl": "/course/details/78", "canonicalDestination": "/en/courses/diploma-caregiving-and-healthcare-assistant/", "status": 301, "notes": "Diploma in Caregiving & Healthcare Assistant" },
+  { "legacyUrl": "/course/details/80", "canonicalDestination": "/en/courses/diploma-logistics-and-supply-chain-management-elearning/", "status": 301, "notes": "Diploma in Logistics & Supply Chain (E-Learning)" },
+  { "legacyUrl": "/course/details/81", "canonicalDestination": "/en/courses/diploma-business-management-elearning/", "status": 301, "notes": "Diploma in Business Management (E-Learning)" },
+  { "legacyUrl": "/course/details/82", "canonicalDestination": "/en/courses/diploma-human-resource-management-elearning/", "status": 301, "notes": "Diploma in Human Resource Management (E-Learning)" },
+
+  { "legacyUrl": "/course/details/35", "canonicalDestination": "/en/courses/advanced-diploma-civil-engineering/", "status": 301, "notes": "Advanced Diploma in Civil Engineering" },
+  { "legacyUrl": "/course/details/36", "canonicalDestination": "/en/courses/advanced-diploma-electrical-and-electronics-engineering/", "status": 301, "notes": "Advanced Diploma in Electrical & Electronics Engineering" },
+  { "legacyUrl": "/course/details/37", "canonicalDestination": "/en/courses/advanced-diploma-mechanical-engineering/", "status": 301, "notes": "Advanced Diploma in Mechanical Engineering" },
+  { "legacyUrl": "/course/details/70", "canonicalDestination": "/en/courses/advanced-diploma-mechanical-and-electrical-engineering/", "status": 301, "notes": "Advanced Diploma in Mechanical & Electrical Engineering" },
+  { "legacyUrl": "/course/details/79", "canonicalDestination": "/en/courses/advanced-diploma-construction-management/", "status": 301, "notes": "Advanced Diploma in Construction Management" },
+
+  { "legacyUrl": "/course/details/38", "canonicalDestination": "/en/courses/short-term/", "status": 301, "notes": "Consolidated Short Term Modular Courses index" },
+
+  { "legacyUrl": "/course/details/71", "canonicalDestination": "/en/courses/postgraduate-diploma-mechanical-and-electrical-instrumentation-control-engineering/", "status": 301, "notes": "Postgraduate Diploma in M&E Instrumentation Control Engineering" },
+  { "legacyUrl": "/course/details/72", "canonicalDestination": "/en/courses/postgraduate-diploma-business-management/", "status": 301, "notes": "Postgraduate Diploma in Business Management" }
+]
